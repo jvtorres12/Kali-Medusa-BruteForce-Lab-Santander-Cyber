@@ -1,5 +1,5 @@
 # Kali-Medusa-BruteForce-Lab-Santander-Cyber
- Projeto hands-on de Cybersecurity: simulação controlada de ataques de força bruta para fins educacionais. Stack: Kali Linux, Medusa, Metasploitable 2, VirtualBox.  Cenários reais de pentest com documentação completa e medidas de proteção.
+ Projeto hands-on de Cybersecurity: simulação controlada de ataques de força bruta para fins educacionais. Stack: Kali Linux, Medusa, Metasploitable 2, VMware.  Cenários reais de pentest com documentação completa e medidas de proteção.
 
 # CyberAttack-Lab-Santander
 
@@ -16,7 +16,7 @@ Este repositório contém a implementação prática de um laboratório de cyber
 - **Kali Linux** - Distribuição especializada em testes de penetração
 - **Medusa** - Ferramenta de força bruta multiprotocolo
 - **Metasploitable 2** - Máquina virtual intencionalmente vulnerável
-- **VirtualBox** - Plataforma de virtualização
+- **VMware** - Plataforma de virtualização
 - **DVWA** - Damn Vulnerable Web Application
 
 ## Cenários de Ataque Implementados
